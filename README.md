@@ -42,7 +42,7 @@ To download and run these examples you will need:
 
 If you want to run a specific example you will have to clone the whole repository and then navigate to a specific application folder. For example:
 
-* `git clone https://github.com/lagom/lagom-samples.git`
+* `git clone https://github.com/toomaj/lagom-shopping-card-scala.git`
 * `cd mixed-persistence/mixed-persistence-java-sbt`
 
 Each example includes specific instructions in it's `README.md` file on how to run and exercise the application.
