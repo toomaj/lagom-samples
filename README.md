@@ -1,3 +1,5 @@
+# This repo is a fork from [https://github.com/lagom/lagom-samples](Lagom Sample)
+
 # Lagom Samples
 
 [![Build Status](https://travis-ci.com/lagom/lagom-samples.svg?branch=1.6.x)](https://travis-ci.com/lagom/lagom-samples)
