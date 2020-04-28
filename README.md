@@ -1,4 +1,4 @@
-# This repo is a fork from [https://github.com/lagom/lagom-samples](Lagom Sample)
+# This repo is a fork from [lagom sample](https://github.com/lagom/lagom-samples)
 
 # Lagom Samples
 
